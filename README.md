@@ -1,7 +1,7 @@
 # nome progetto
 PROGETTO GIT_GITHUB
 # studente
-Bruno Pizzi
+Bruno Pizzi 2
 # descrizione 
 progetto git/ github
 # tecnologie 
